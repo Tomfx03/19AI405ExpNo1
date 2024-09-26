@@ -46,8 +46,8 @@ To find the PEAS description for the given AI problem and develop an AI agent.
 
 ## Program:
 
-#### Developed by : JAI SURYA R
-#### Register number : 212223230084
+#### Developed by : TOM FRANCIES XAVIOUR L
+### Register Number : 21222311060
 
 ```
 class VacuumCleanerAgent:
@@ -113,6 +113,7 @@ agent.print_status()
 
 
 <br>
+
 ## RESULT:
 
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
